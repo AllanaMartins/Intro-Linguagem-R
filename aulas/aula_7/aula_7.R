@@ -43,3 +43,4 @@
 # Faça alterações em arquivos do repositório local, seguidas vezes, em locais diferentes dos arquivos, sempre dando commit e push. Como reverter para um estado anterior? Como acessar o histórico do arquivo no Github? Restaure somente um dos arquivos para um estado anterior
 
 #Extra: clone o repositório deste curso, sugira uma modificação em um dos arquivos de qualquer aula, de preferência uma melhoria de clareza do exercício ou da aula, e faça um pull request. Se eu fizer o merge vc ganha um chocolate
+#pufavo vitu, me da um chocolate, nunca te pedi nada...
